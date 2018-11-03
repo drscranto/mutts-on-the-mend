@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle on Mutts on the mend</title>
+    <link>/blogs/</link>
+    <description>Recent content in Lifestyle on Mutts on the mend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cat Products</title>
+      <link>/blogs/products-cats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/products-cats/</guid>
+      <description>Coming soon &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dog Products</title>
+      <link>/blogs/products-dogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/products-dogs/</guid>
+      <description>Protective shirts specifically designed for your dog to wear after surgery to help them heal.</description>
+    </item>
+    
+    <item>
+      <title>General Advice</title>
+      <link>/blogs/advice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/advice/</guid>
+      <description>Advice from veterinarians to help your pet heal after surgery.
+ protects incisions prevents licking and chewing calming  </description>
+    </item>
+    
+    <item>
+      <title>Our Story</title>
+      <link>/blogs/us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/us/</guid>
+      <description>After Ruthie&amp;rsquo;s surgeries I needed a shirt to protect the multiple incisions on her underbelly. Luckily Ruthie is almost a Youth Medium, so I was able to modify basic white tees.</description>
+    </item>
+    
+    <item>
+      <title>Testimonials</title>
+      <link>/blogs/testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/testimonials/</guid>
+      <description>Vets
+Friends</description>
+    </item>
+    
+  </channel>
+</rss>
